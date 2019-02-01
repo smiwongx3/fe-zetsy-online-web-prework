@@ -2,7 +2,7 @@
 <h1>Zetsy</h1>
 
 <!-- featured image -->
-[necklace.jpg]
+<img src=[necklace.jpg]>
 
 <!-- level 2 header -->
 <h2>About</h2>
@@ -26,11 +26,14 @@ Learn more.</a></p>
 <img src="http://nmai.si.edu" alt=[nmai-logo.png]>
 <!-- links to: http://nmai.si.edu -->
 
-[times-logo.png]<!-- links to: http://www.nytimes.com/pages/t-magazine/ -->
+<img src="http://www.nytimes.com/pages/t-magazine/" alt =[times-logo.png]>
+<!-- links to: http://www.nytimes.com/pages/t-magazine/ -->
 
-[sedona-logo.png]<!-- links to: http://www.sedonamonthly.com -->
+<img src="http://www.sedonamonthly.com" alt=[sedona-logo.png]>
+<!-- links to: http://www.sedonamonthly.com -->
 
-[bergdorf-logo.png]<!-- links to: http://www.bergdorfgoodman.com/ -->
+<img src="http://www.bergdorfgoodman.com/" alt=[bergdorf-logo.png]>
+<!-- links to: http://www.bergdorfgoodman.com/ -->
 
 <!-- paragraph -->
-&copy; 2014 Zetsy, All Rights Reserved.
+<p>&copy; 2014 Zetsy, All Rights Reserved.</p>
