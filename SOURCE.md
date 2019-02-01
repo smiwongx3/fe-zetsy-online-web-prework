@@ -22,11 +22,14 @@ Learn more.</a></p>
 <!-- level 2 header -->
 <h2>Press</h2>
 
-<!-- press images <img src="pic_trulli.jpg" alt="Italian Trulli"> -->
-<img src="[nmai-logo.png]
+<!-- press images -->
+<img src="http://nmai.si.edu" alt=[nmai-logo.png]>
 <!-- links to: http://nmai.si.edu -->
+
 [times-logo.png]<!-- links to: http://www.nytimes.com/pages/t-magazine/ -->
+
 [sedona-logo.png]<!-- links to: http://www.sedonamonthly.com -->
+
 [bergdorf-logo.png]<!-- links to: http://www.bergdorfgoodman.com/ -->
 
 <!-- paragraph -->
